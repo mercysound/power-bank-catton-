@@ -1,0 +1,58 @@
+.wrapper{
+  width: 25%;
+  /* background-color: grey; */
+  margin: 0 auto;
+  padding: 2rem 5rem;
+  border: 3px solid grey;
+
+}
+/* wrapper end here */
+
+/* logo start here */
+.logo{
+  width: 50px;
+  background-color: black;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 0 auto;
+}
+/* title start here */
+.logo .title{
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+}
+.title span{
+  color: red;
+}
+/* model start here */
+.model{
+  text-align: center;
+}
+.model .title{
+  letter-spacing: 5px;
+  margin-bottom: 0;
+  font-weight: 90;
+  font-size: 35px;
+}
+.model .spec{
+  background-color: black;
+  color: white;
+  width: 50px;
+  margin: 0 auto;
+  font-size: 20px;
+}
+/* models section end */
+.proPic{
+  text-align: center;
+}
+/* product section start */
+.features{
+  text-align: center;
+  padding: 10px 0px;
+}
+.features img{
+  width: 32px;
+  margin: 10px;
+}
+
